@@ -1,0 +1,6 @@
+.DS_Store
+.mamba_env
+.ipynb_checkpoints
+.OTTER_LOG
+.local
+.config
