@@ -4,3 +4,8 @@
 .OTTER_LOG
 .local
 .config
+.mamba_env
+cs1090b_hw2/model_overfit.keras
+cs1090b_hw2/training_history.json
+*.yml
+Miniconda3-latest-MacOSX-arm64.sh
