@@ -12,3 +12,5 @@ Miniconda3-latest-MacOSX-arm64.sh
 cs1090b_hw2/data/test.csv
 cs1090b_hw2/data/train.csvcs1090b_hw2/data/test.csv
 cs1090b_hw2/data/train.csv
+cs1090b_hw2/model_overfit.h5
+cs1090b_hw2/history_overfit.json
