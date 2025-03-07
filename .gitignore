@@ -17,3 +17,5 @@ cs1090b_hw2/history_overfit.json
 cs1090b_hw2/kaggle_history.json
 cs1090b_hw2/kaggle_model.h5
 cs1090b_hw2/kaggle_submission.csv
+cs1090b_hw2/data/quickdraw/test.csv
+cs1090b_hw2/data/quickdraw/train.csv
