@@ -1,21 +1,15 @@
+# DS_Store
 .DS_Store
-.mamba_env
-.ipynb_checkpoints
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Otter logs
 .OTTER_LOG
-.local
-.config
-.mamba_env
-cs1090b_hw2/model_overfit.keras
-cs1090b_hw2/training_history.json
+
+# YML files
 *.yml
-Miniconda3-latest-MacOSX-arm64.sh
-cs1090b_hw2/data/test.csv
-cs1090b_hw2/data/train.csvcs1090b_hw2/data/test.csv
-cs1090b_hw2/data/train.csv
-cs1090b_hw2/model_overfit.h5
-cs1090b_hw2/history_overfit.json
-cs1090b_hw2/kaggle_history.json
-cs1090b_hw2/kaggle_model.h5
-cs1090b_hw2/kaggle_submission.csv
-cs1090b_hw2/data/quickdraw/test.csv
-cs1090b_hw2/data/quickdraw/train.csv
+
+# HW2 files
+model_overfit.h5
+quickdraw/
