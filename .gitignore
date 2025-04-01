@@ -13,3 +13,6 @@
 # HW2 files
 model_overfit.h5
 quickdraw/
+
+# HW3 files
+celeb_a/
