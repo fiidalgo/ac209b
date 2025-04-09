@@ -17,6 +17,10 @@ quickdraw/
 # HW3 files
 celeb_a/
 
-# Notes and labs
+# Notes and labs and hw
 notes/
 labs/
+hw/
+
+# Project files
+data/
