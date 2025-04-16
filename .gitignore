@@ -1,25 +1,10 @@
 # DS_Store
 .DS_Store
 
-# Notebook checkpoints
-.ipynb_checkpoints/
-
-# Otter logs
-.OTTER_LOG
-
 # YML files
 *.yml
 
-# HW2 files
-model_overfit.h5
-quickdraw/
-
-# HW3 files
-celeb_a/
-
-# Notes and labs and hw
-notes/
-labs/
+# Homework
 hw/
 
 # Project files
